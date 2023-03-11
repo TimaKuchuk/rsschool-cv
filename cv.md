@@ -42,6 +42,9 @@ int main(){
     return 0;
 }
 ```
-
+## Languages: 
+* Russian - Native 
+* English - Intermediate\Upper-Intermediate
+* Belarusian - Basic 
 
 
