@@ -2,9 +2,9 @@
 ## Junior Frontend Developer
 
 
-* Phone: +375297653663 *
-* Telegram: @tima_kuchuk *
-* Discord: Timofey Kuchuk (@TimaKuchuk) *
+* Phone: +375297653663 
+* Telegram: @tima_kuchuk 
+* Discord: Timofey Kuchuk (@TimaKuchuk) 
 
 ## About Myself: 
 
@@ -18,7 +18,7 @@
 * Git, GitHub
 
 ## Code example:
-# Task: Remove all excess spaces.
+### Task: Remove all excess spaces.
 ```
 int main(){
     char c[80];
